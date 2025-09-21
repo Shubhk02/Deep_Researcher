@@ -50,7 +50,7 @@ print(report.synthesis)
 
 - [Installation Guide](docs/installation.md)
 - [Usage Examples](examples/)
-- [API Reference](docs/api_reference.md)
+- [API Reference](deep-researcher-agent/docs/api_reference.md)
 
 ## 🤝 Contributing
 
