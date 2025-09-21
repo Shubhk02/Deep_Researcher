@@ -3,7 +3,7 @@
 A powerful, local research agent that can search, analyze, and synthesize information from large-scale data sources without relying on external APIs. The system handles local embedding generation, multi-step reasoning, and intelligent information synthesis entirely offline.
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## ✨ Features
 
@@ -56,6 +56,3 @@ print(report.synthesis)
 
 Contributions welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
